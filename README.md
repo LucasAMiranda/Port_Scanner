@@ -1,8 +1,8 @@
-# Port_Scanner TOOL 
+# 🛠️ Port_Scanner TOOL 
 
 Escaneamento de portas abertas usando python
 
-# GIT CLONE 
+# 😺 GIT CLONE 
 
  https://github.com/LucasAMiranda/Port_Scanner.git
 
