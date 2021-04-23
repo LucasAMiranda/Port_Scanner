@@ -6,7 +6,7 @@ Escaneamento de portas abertas usando python
 
  https://github.com/LucasAMiranda/Port_Scanner.git
 
-# Who Use? 
+# How Use? 
 
 # PRIMARY 
  - USIGNED AN TERMINAL FOR TESTS THE IN DOOR AND IP
